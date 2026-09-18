@@ -52,15 +52,6 @@ The following methods install the two executables most people run — `mecatui`,
 the terminal client, and `mecated`, the server:
 
 <details>
-<summary><b>Conda</b></summary>
-
-```sh
-conda install -c conda-forge mecatl
-```
-
-</details>
-
-<details>
 <summary><b>Homebrew</b></summary>
 
 ```sh
@@ -69,6 +60,14 @@ brew install stacklok/tap/mecatl
 
 </details>
 
+<details>
+<summary><b>Conda</b></summary>
+
+```sh
+conda install -c conda-forge mecatl
+```
+
+</details>
 <details>
 <summary><b>Mamba</b></summary>
 
